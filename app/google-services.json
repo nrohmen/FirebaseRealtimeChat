@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "911358674086",
+    "firebase_url": "https://chatuyee.firebaseio.com",
+    "project_id": "chatuyee",
+    "storage_bucket": "chatuyee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911358674086:android:bf3b8cbfe69a4490",
+        "android_client_info": {
+          "package_name": "com.ennur.chatuyee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911358674086-r5ab01n67sh0qp8a9m7qu95b44s1b6fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ennur.chatuyee",
+            "certificate_hash": "AA9E8ED4C94CEFF4F4B56AA846AC6CE3C9C3509B"
+          }
+        },
+        {
+          "client_id": "911358674086-0c9mqelhn4n6008rcv1dg029pvpfnmu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNDd1cwgMcwOPckN-56u8oCET3vmOsto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911358674086-0c9mqelhn4n6008rcv1dg029pvpfnmu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
